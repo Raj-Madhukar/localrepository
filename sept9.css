@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: rgb(243, 138, 9);
+    padding: 10px;
+    margin: 10px;
+   /*** text-align: center;***/
+
+}
+header img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    image-resolution:inherit;
+    border-right: 0;
+    margin-right: 0;
+}
+h1{
+    color: #9ae6cb;
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
